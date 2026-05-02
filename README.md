@@ -1,7 +1,7 @@
 # Cryptography101
 Credits: GDGoC MMU
 
-Challenge 1:
+## Challenge 1:
 
 Workflow:
 
@@ -18,7 +18,7 @@ Output: GDGOC{B4s3_t0_An0tH3r_b4S3}
 
 
 
-Challenge 2:
+## Challenge 2:
 
 
 Vigenere Cipher
