@@ -1,5 +1,5 @@
 # Cryptography101
-Credits: GDGoC MMU
+Credits: GDGoC MMU - Solaris
 
 ## Challenge 1:
 
